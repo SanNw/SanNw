@@ -28,10 +28,10 @@
   <img align="left"   alt="Sann-apu" height="100" width="110"  src="https://c.tenor.com/ZmZ7UKIc0soAAAAC/anonymous-anonymous-bites-back.gif">
 </div>
   
-<br>
-
  
  <div>
-  
+  <br>
+   
+   
    ![Snake animation](https://github.com/SanNw/SanNw/blob/output/github-contribution-grid-snake.svg)
  </div>
