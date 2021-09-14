@@ -20,15 +20,17 @@
   </div>
 
   <div style="display: inline_block"><br>
-  <img align="center" alt="Sann-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Sann-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Sann-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Sann-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Sann-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right"  alt="Sann-apu" height="100" width="100"   src="https://c.tenor.com/ZmZ7UKIc0soAAAAC/anonymous-anonymous-bites-back.gif">
+  <img align="right" alt="Sann-php" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  <img align="center" alt="Sann-Js" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Sann-React" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Sann-HTML" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="right" alt="Sann-CSS" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Sann-Python" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right"  alt="Sann-apu" height="100" width="100"   src="https://user-images.githubusercontent.com/59961703/133307785-30a55ade-7340-444b-b9ba-c579714e7523.png">
+  <img align="left"   alt="Sann-apuu" height="'100" width="100" src="https://user-images.githubusercontent.com/59961703/133307868-154f7a10-17a0-4011-90a5-e02758ee4fc3.png">
+  <img align="center" alt="Sann-apuu" height="'80" width="80" src="https://user-images.githubusercontent.com/59961703/133309835-c3e4cae4-64f7-43e9-acf3-a5f2a8ce968e.png">
 </div>
-  
- 
+
  <div>
    
    
