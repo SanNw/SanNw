@@ -25,12 +25,11 @@
   <img align="center" alt="Sann-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Sann-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Sann-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="left"   alt="Sann-apu" height="100" width="110"  src="https://c.tenor.com/ZmZ7UKIc0soAAAAC/anonymous-anonymous-bites-back.gif">
+  <img align="center"   alt="Sann-apu" height="100" width="110"  src="https://c.tenor.com/ZmZ7UKIc0soAAAAC/anonymous-anonymous-bites-back.gif">
 </div>
   
  
  <div>
-  <br>
    
    
    ![Snake animation](https://github.com/SanNw/SanNw/blob/output/github-contribution-grid-snake.svg)
