@@ -1,5 +1,5 @@
 
-  ### <h1 align="center"> Hi, I'm San <img src="https://github.com/SanNw/SanNw/blob/main/.github/images/64CQ5cH.gif" width="30px"></h1>
+  ### <h1 align="center"> Hi, I'm San <img src="https://github.com/SanNw/SanNw/blob/main/.github/images/64CQ5cH.gif" width="50px"></h1>
   
   <p align="center">
     <i>Você pode me encontrar ou entrar em contato comigo por essas redes:</i>
