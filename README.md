@@ -73,10 +73,21 @@ Trabajo entre el diseño editorial y gráfico, el branding, los libros, la creac
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SanNw&show_icons=true&hide_border=true&bg_color=00000000&title_color=D49A3A&text_color=667085&icon_color=16324F&rank_icon=github" alt="San's GitHub statistics">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanNw&layout=compact&hide_border=true&bg_color=00000000&title_color=D49A3A&text_color=667085&langs_count=8" alt="Most used languages">
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SanNw&theme=github_dark)
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=SanNw&bg_color=00000000&color=667085&line=D49A3A&point=16324F&area=true&hide_border=true" alt="Contribution activity graph">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SanNw&theme=github_dark" alt="Languages by repository">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SanNw&theme=github_dark" alt="Languages by commits">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SanNw&theme=github_dark" alt="GitHub statistics">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SanNw&theme=github_dark&utcOffset=-3" alt="Productive time">
+
+![Contribution streak](https://streak-stats.demolab.com?user=SanNw&theme=transparent&hide_border=true&ring=D49A3A&fire=D49A3A&currStreakLabel=16324F)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SanNw/SanNw/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SanNw/SanNw/output/github-contribution-grid-snake.svg">
+  <img alt="Animated contribution graph" src="https://raw.githubusercontent.com/SanNw/SanNw/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
