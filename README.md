@@ -1,40 +1,60 @@
 <div align="center">
 
-![San — Editorial design and creative technology](https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:16324F,100:D49A3A&height=230&section=header&text=SAN&fontSize=74&fontColor=F8F4E8&animation=fadeIn&fontAlignY=34&desc=Editorial%20design%20%C2%B7%20Books%20%C2%B7%20Branding%20%C2%B7%20Creative%20technology&descAlignY=56&descSize=17)
+![San — Editorial designer and creative developer](https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:16324F,100:D49A3A&height=230&section=header&text=SAN&fontSize=74&fontColor=F8F4E8&animation=fadeIn&fontAlignY=34&desc=Editorial%20designer%20%C2%B7%20Studio%20Agartha%20%C2%B7%20Creative%20developer&descAlignY=56&descSize=17)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=18&duration=3000&pause=900&color=D49A3A&center=true&vCenter=true&width=760&lines=I+design+systems+for+ideas%2C+books+and+brands.;I+build+tools+where+publishing+meets+automation.;Form%2C+meaning+and+technology+belong+together.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=18&duration=3000&pause=900&color=D49A3A&center=true&vCenter=true&width=760&lines=I+design+books%2C+publications+and+reading+experiences.;I+turn+content+into+clear+editorial+systems.;I+build+tools+where+publishing+meets+automation.)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Selected_work-GitHub-16324F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanNw?tab=repositories)
+[![Studio Agartha](https://img.shields.io/badge/Studio_Agartha-Visit_the_studio-D49A3A?style=for-the-badge&logo=googlechrome&logoColor=111827)](https://studioagartha.com/)
+[![Repositories](https://img.shields.io/badge/Code-GitHub-16324F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanNw?tab=repositories)
 [![npm](https://img.shields.io/badge/npm-mcp--indesign-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/mcp-indesign)
 [![Telegram](https://img.shields.io/badge/Telegram-@Sannwed-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sannwed)
 [![Email](https://img.shields.io/badge/Email-Proton_Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sannwe@protonmail.com)
 
 </div>
 
-## A studio mind with a developer's toolkit
+## Editorial design is the center
 
-I work across **editorial and graphic design, branding, books, content, software and AI automation**. My projects usually begin with a question about meaning or communication and end as a visual system, publication, interface or working tool.
+I am an **editorial designer and the founder of [Studio Agartha](https://studioagartha.com/)**. My main work is turning complex content into books, publications and visual systems that are clear, attractive and meaningful. I also work with branding and creative development, using code and automation to improve publishing workflows.
 
 ```text
-EDITORIAL  →  typography, books, visual hierarchy, long-form reading
-IDENTITY   →  brands, art direction, design systems, content
-CODE       →  Python, TypeScript, web, APIs, MCP and automation
-RESEARCH   →  philosophy, religion, history, science and technology
+EDITORIAL  →  books, typography, layout, visual hierarchy, reading
+STUDIO     →  strategy, identity, packaging, websites, social media
+CODE       →  publishing tools, Python, TypeScript, APIs, automation
+RESEARCH   →  philosophy, religion, history, science, technology
 ```
 
 <details>
 <summary><strong>Leia em português</strong></summary>
 <br>
-Trabalho entre o design editorial e gráfico, branding, livros, criação de conteúdo, programação e automação com IA. Gosto de projetos em que forma, significado e tecnologia precisam funcionar como um único sistema.
+Sou designer editorial e fundador do Studio Agartha. Meu foco está em livros, publicações, tipografia e sistemas visuais para conteúdos complexos. Também trabalho com branding e programação, criando ferramentas e automações para aprimorar processos editoriais.
 </details>
 
 <details>
 <summary><strong>Leer en español</strong></summary>
 <br>
-Trabajo entre el diseño editorial y gráfico, el branding, los libros, la creación de contenido, la programación y la automatización con IA. Me interesan los proyectos donde forma, significado y tecnología funcionan como un solo sistema.
+Soy diseñador editorial y fundador de Studio Agartha. Mi trabajo se centra en libros, publicaciones, tipografía y sistemas visuales para contenidos complejos. También trabajo con branding y programación, creando herramientas y automatizaciones para mejorar los procesos editoriales.
 </details>
 
-## Selected projects
+## Studio Agartha
+
+> **Beauty that converts.** We create visual and strategic work for memorable businesses, combining artistic concept, commercial purpose and careful execution.
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://studioagartha.com/"><img src="https://studioagartha.com/_astro/ternario.D1noiUGQ_Z29e0NT.webp" alt="O Ternário da Vida Espiritual — editorial project"></a></td>
+    <td width="50%"><a href="https://studioagartha.com/"><img src="https://studioagartha.com/_astro/st-anthony.Ow06WTqD_lHTYP.webp" alt="St. Anthony Books & Gifts — branding and editorial project"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Editorial design</strong><br><sub>Books, printed and digital publications, typography and layout.</sub></td>
+    <td align="center"><strong>Brand systems</strong><br><sub>Identity, packaging, websites and communication.</sub></td>
+  </tr>
+</table>
+
+The studio process moves through **brand strategy → prototyping → presentation → organized delivery**, connecting visual quality with practical business goals.
+
+[**Visit Studio Agartha →**](https://studioagartha.com/)
+
+## Code & publishing tools
 
 | Project | What it does | Field |
 |:--|:--|:--|
