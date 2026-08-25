@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Selected_work-GitHub-16324F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanNw?tab=repositories)
 [![npm](https://img.shields.io/badge/npm-mcp--indesign-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/mcp-indesign)
-[![Telegram](https://img.shields.io/badge/Telegram-@Sannwed-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sannwe)
+[![Telegram](https://img.shields.io/badge/Telegram-@Sannwed-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Sannwed)
 [![Email](https://img.shields.io/badge/Email-Proton_Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:sannwe@protonmail.com)
 
 </div>
